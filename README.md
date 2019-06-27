@@ -5,7 +5,7 @@ An archive of historical luminance data for the Prisma BOLD screen affiliated wi
 This repository contains luminance data for the BOLD32 screen associated with the Prisma MRI scanner at the Carnegie Mellon University BRIDGE Center under varying light conditions and color gun intensities. <br><br>
 Each data file contains luminance data (cd/m^2) recorded with an LS-150 Minolta luminance meter while ambient lighting was 25%, 50%, and 100% of the maximum (as of 6/26/19). <br><br>
 
-For example, ``` 100p_lum_data.csv ``` contains luminance data for red, green, blue, and all three color gun intensities under maximum lighting conditions, with measured luminance values forming rows and the color gun arranged in columns:
+For example, ``` 100p_lum_data.csv ``` contains luminance data for red, green, blue, and all three color gun intensities under maximum lighting conditions, with a column for each color gun and a row for each set of measured luminance values:
 
 bw | red | green | blue 
 ------------ | ------------- | ------------- | -------------

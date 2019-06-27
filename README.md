@@ -13,7 +13,7 @@ bw | red | green | blue
 ...| ... | ... | ...
 
 
-<br><br>
+<br>
 
 ``` measure_luminance.py ``` varies color gun intensities with the option of automated measurement. <br>
 ``` plot_luminance_color.ipynb ``` plots luminance as a function of color gun intensity. 
